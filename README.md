@@ -1,3 +1,5 @@
+![logo](https://github.com/Jr-Programer-Sanjib/Jr-Programer-Sanjib/blob/main/Sanjib%20Maity%20(4).png)
+
 <h1 align="center">Hi 👋, I'm Sanjib</h1>
 <h3 align="center">A passionate Jr Programer from India</h3>
 
