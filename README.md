@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AR ,Flutter ,Robo Biotics**
 
-- 👨‍💻 All of my projects are available at [https://sanjib.netlify.app](https://sanjib.netlify.app)
+- 👨‍💻 All of my projects are available at [https://sanjib.netlify.app](https://sanjib-m.netlify.app)
 
 - 💬 Ask me about **React , Expo React-Native, Python,VR**
 
