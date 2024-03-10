@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanjib</h1>
 <h3 align="center">A passionate Jr Programer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/0a/7f/74/0a7f742ced44a9b025878799f5240066.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/02/56/5c/02565c33131c9e8a241dd5ae4d97e81e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jr-programer-sanjib&label=Profile%20views&color=0e75b6&style=flat" alt="jr-programer-sanjib" /> </p>
 
