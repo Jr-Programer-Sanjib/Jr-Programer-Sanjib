@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanjib</h1>
 <h3 align="center">A passionate Jr Programer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/3b/42/ef3b42ceb18014af07c46182bacf1f0b.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/11/eb/ec/11ebecc7ef79b915f6ee2ca33a5b526a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jr-programer-sanjib&label=Profile%20views&color=0e75b6&style=flat" alt="jr-programer-sanjib" /> </p>
 
 - 🔭 I’m currently working on [AR Project's](https://glitch.com/edit/#!/marred-fierce-bronze)
